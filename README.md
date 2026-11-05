@@ -61,8 +61,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GeminiMortal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=cn" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiMortal&layout=compact&theme=tokyonight&hide_border=true&locale=cn" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeminiMortal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=cn" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeminiMortal&layout=compact&theme=tokyonight&hide_border=true&locale=cn" alt="Top Languages" />
 
 <br/>
 
@@ -70,7 +70,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GeminiMortal&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeminiMortal&theme=tokyonight" alt="Activity & Contribution Graph" />
 
 </div>
 
