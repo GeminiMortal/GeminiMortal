@@ -15,11 +15,11 @@
 ```text
 🎓 沈阳工业大学 · Shenyang University of Technology
 📍 辽宁沈阳 · Shenyang, Liaoning, China
-📝 博客 Blog : geminimortal.cn[geminimortal.cn] / 奶龙blog.cn[奶龙blog.cn]
 💡 热爱前端、AI 与一切有趣的技术
 ⚡ Fun fact : 双子座，但写代码时异常专一
 ```
 
+- 📝 我的博客：[geminimortal.cn](https://geminimortal.cn) ｜ [奶龙blog.cn](https://xn--blog-p76g4407a.cn)
 - 🔭 最近在折腾：**个人博客 / AI 应用 / 一些奇思妙想的小项目**
 - 🌱 正在学习：**Java 后端、机器学习与模型部署**
 - 💬 可以聊聊：**Vue、Python、Electron、AI 工具链、校园生活**
@@ -96,7 +96,8 @@
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/博客-geminimortal.cn-2575fc?style=for-the-badge&logo=rss&logoColor=white)](https://geminimortal.cn)
+[![主博客](https://img.shields.io/badge/主博客-geminimortal.cn-2575fc?style=for-the-badge&logo=rss&logoColor=white)](https://geminimortal.cn)
+[![奶龙Blog](https://img.shields.io/badge/奶龙Blog-%E5%A5%B6%E9%BE%99blog.cn-ff69b4?style=for-the-badge&logo=rss&logoColor=white)](https://xn--blog-p76g4407a.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-GeminiMortal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeminiMortal)
 
 <br/>
