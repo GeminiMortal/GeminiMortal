@@ -15,7 +15,7 @@
 ```text
 🎓 沈阳工业大学 · Shenyang University of Technology
 📍 辽宁沈阳 · Shenyang, Liaoning, China
-📝 博客 Blog : geminimortal.cn
+📝 博客 Blog : geminimortal.cn[geminimortal.cn] / 奶龙blog.cn[奶龙blog.cn]
 💡 热爱前端、AI 与一切有趣的技术
 ⚡ Fun fact : 双子座，但写代码时异常专一
 ```
