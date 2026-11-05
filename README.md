@@ -1,16 +1,94 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GeminiMortal/GeminiMortal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=GeminiMortal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%E5%8F%8C%E5%AD%90%E5%BA%A7%E5%87%A1%E5%B0%98%20%C2%B7%20Keep%20Coding%20%C2%B7%20Keep%20Curious&descAlignY=58&descSize=18" alt="header" />
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%8F%8C%E5%AD%90%E5%BA%A7%E5%87%A1%E5%B0%98+%F0%9F%91%8B;Hi%2C+I'm+GeminiMortal+%F0%9F%91%8B;A+student+developer+from+Shenyang+%F0%9F%8C%9F;Vue+%C2%B7+Python+%C2%B7+Go+%C2%B7+JavaScript" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🌌 关于我 / About Me
+
+```text
+🎓 沈阳工业大学 · Shenyang University of Technology
+📍 辽宁沈阳 · Shenyang, Liaoning, China
+📝 博客 Blog : geminimortal.cn
+💡 热爱前端、AI 与一切有趣的技术
+⚡ Fun fact : 双子座，但写代码时异常专一
+```
+
+- 🔭 最近在折腾：**个人博客 / AI 应用 / 一些奇思妙想的小项目**
+- 🌱 正在学习：**Go 后端、机器学习与模型部署**
+- 💬 可以聊聊：**Vue、Python、AI 工具链、校园生活**
+- 📫 找到我：博客留言或 GitHub Issue 都行
+
+---
+
+## 🛠️ 技术栈 / Tech Stack
+
+<div align="center">
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub 数据 / Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GeminiMortal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=cn" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiMortal&layout=compact&theme=tokyonight&hide_border=true&locale=cn" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=GeminiMortal&theme=tokyonight&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GeminiMortal&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🐍 贡献贪吃蛇 / Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeminiMortal/GeminiMortal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeminiMortal/GeminiMortal/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GeminiMortal/GeminiMortal/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🔗 找到我 / Find Me
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/博客-geminimortal.cn-2575fc?style=for-the-badge&logo=rss&logoColor=white)](https://geminimortal.cn)
+[![GitHub](https://img.shields.io/badge/GitHub-GeminiMortal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeminiMortal)
+
+<br/>
+
+![访客数](https://komarev.com/ghpvc/?username=GeminiMortal&color=2575fc&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" alt="footer" />
