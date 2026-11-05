@@ -61,8 +61,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GeminiMortal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=cn" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GeminiMortal&layout=compact&theme=tokyonight&hide_border=true&locale=cn" alt="Top Languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeminiMortal&theme=tokyonight" alt="GitHub Stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeminiMortal&theme=tokyonight" alt="Top Languages" />
 
 <br/>
 
